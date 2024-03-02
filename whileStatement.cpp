@@ -9,6 +9,6 @@ int main()
         sum += i;
         i++;
     }
-    cout << "The sum of 1 to 10 is: " << sum;
+    cout << "The sum of 1 to 10 is: " << sum << endl;
     return 0;
 }
